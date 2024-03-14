@@ -1,0 +1,17 @@
+{
+  "shop" : {
+    "currency": "USD",
+    "language": "en",
+    "weightUnit": "kg",
+    "timezone": "UTC"
+  },
+  "system": {
+    "database": {
+      "host": "appetizer--cms-server.postgres.database.azure.com",
+      "port": 5432,
+      "database": "appetizer--cms-database",
+      "user": "izosfnhtvb",
+      "password": "545GLX7S4OC7E732$"
+    }
+  }
+}
